@@ -5,10 +5,7 @@ I focus on shipping practical, human-in-the-loop systems that combine LLMs with 
 ## Currently
 - Building Workforce Decision Support Layer — an explainable system that uses LLMs to parse project specs, queries a knowledge graph for personnel/skills/tasks, and produces human-approved staffing and resource recommendations (Angular + TypeScript, Python/FastAPI, Neo4j, LangGraph)
 
-- Open to relocation 
-- Remote Assignment 
 
-- Clearance Elgible
 
 ## Tech I use
 **Languages:** Python, TypeScript, SQL, java, C languages
@@ -17,6 +14,11 @@ I focus on shipping practical, human-in-the-loop systems that combine LLMs with 
 
 **Backend / Data:** FastAPI, Neo4j, PostgreSQL  
 **Frontend:** Angular  
+
+## Opportunity (Open to:) 
+- Relocation 
+- Remote Assignment
+
 
 
 <!--
